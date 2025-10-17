@@ -26,7 +26,7 @@
 </template>
 
 <script setup lang="ts">
-import { defineProps, defineEmits, withDefaults } from 'vue';
+
 
 // --- Props定義 ---
 interface Props {
